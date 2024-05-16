@@ -1,0 +1,17 @@
+C:\Users\OWNER\Desktop\Web Course\backend\APIS\Talabat.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Application.deps.json
+C:\Users\OWNER\Desktop\Web Course\backend\APIS\Talabat.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Application.dll
+C:\Users\OWNER\Desktop\Web Course\backend\APIS\Talabat.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Application.pdb
+C:\Users\OWNER\Desktop\Web Course\backend\APIS\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OWNER\Desktop\Web Course\backend\APIS\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Application.AssemblyInfoInputs.cache
+C:\Users\OWNER\Desktop\Web Course\backend\APIS\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Application.AssemblyInfo.cs
+C:\Users\OWNER\Desktop\Web Course\backend\APIS\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Application.csproj.CoreCompileInputs.cache
+C:\Users\OWNER\Desktop\Web Course\backend\APIS\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Application.dll
+C:\Users\OWNER\Desktop\Web Course\backend\APIS\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Application.dll
+C:\Users\OWNER\Desktop\Web Course\backend\APIS\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Application.pdb
+C:\Users\OWNER\Desktop\Web Course\backend\APIS\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Application.dll
+C:\Users\OWNER\Desktop\Web Course\backend\APIS\Talabat.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.dll
+C:\Users\OWNER\Desktop\Web Course\backend\APIS\Talabat.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.pdb
+C:\Users\OWNER\Desktop\Web Course\backend\APIS\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Application.csproj.AssemblyReference.cache
+C:\Users\OWNER\Desktop\Web Course\backend\APIS\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Application.csproj.CopyComplete
+C:\Users\OWNER\Desktop\Web Course\backend\APIS\Talabat.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Infrastructure.dll
+C:\Users\OWNER\Desktop\Web Course\backend\APIS\Talabat.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Infrastructure.pdb

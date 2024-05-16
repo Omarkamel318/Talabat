@@ -1,0 +1,12 @@
+C:\Users\OWNER\Desktop\Web Course\backend\APIS\Talabat.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.deps.json
+C:\Users\OWNER\Desktop\Web Course\backend\APIS\Talabat.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.dll
+C:\Users\OWNER\Desktop\Web Course\backend\APIS\Talabat.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.pdb
+C:\Users\OWNER\Desktop\Web Course\backend\APIS\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OWNER\Desktop\Web Course\backend\APIS\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfoInputs.cache
+C:\Users\OWNER\Desktop\Web Course\backend\APIS\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfo.cs
+C:\Users\OWNER\Desktop\Web Course\backend\APIS\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.CoreCompileInputs.cache
+C:\Users\OWNER\Desktop\Web Course\backend\APIS\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.dll
+C:\Users\OWNER\Desktop\Web Course\backend\APIS\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\refint\Talabat.Core.dll
+C:\Users\OWNER\Desktop\Web Course\backend\APIS\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.pdb
+C:\Users\OWNER\Desktop\Web Course\backend\APIS\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\ref\Talabat.Core.dll
+C:\Users\OWNER\Desktop\Web Course\backend\APIS\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.AssemblyReference.cache

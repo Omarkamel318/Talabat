@@ -1,0 +1,15 @@
+C:\Users\OWNER\Desktop\Web Course\backend\APIS\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Infrastructure.deps.json
+C:\Users\OWNER\Desktop\Web Course\backend\APIS\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Infrastructure.dll
+C:\Users\OWNER\Desktop\Web Course\backend\APIS\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Infrastructure.pdb
+C:\Users\OWNER\Desktop\Web Course\backend\APIS\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.dll
+C:\Users\OWNER\Desktop\Web Course\backend\APIS\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.pdb
+C:\Users\OWNER\Desktop\Web Course\backend\APIS\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\OWNER\Desktop\Web Course\backend\APIS\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OWNER\Desktop\Web Course\backend\APIS\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\OWNER\Desktop\Web Course\backend\APIS\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Infrastructure.AssemblyInfo.cs
+C:\Users\OWNER\Desktop\Web Course\backend\APIS\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\OWNER\Desktop\Web Course\backend\APIS\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Infrastructure.csproj.CopyComplete
+C:\Users\OWNER\Desktop\Web Course\backend\APIS\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Infrastructure.dll
+C:\Users\OWNER\Desktop\Web Course\backend\APIS\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\refint\Talabat.Infrastructure.dll
+C:\Users\OWNER\Desktop\Web Course\backend\APIS\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Infrastructure.pdb
+C:\Users\OWNER\Desktop\Web Course\backend\APIS\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\ref\Talabat.Infrastructure.dll
